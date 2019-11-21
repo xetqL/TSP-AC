@@ -9,6 +9,11 @@ verify_ssl = true
 jupyter = "*"
 numpy = "*"
 matplotlib = "*"
+numba = "*"
+graphx = "*"
+xlrd = "*"
+networkx = "*"
+joblib = "*"
 
 [requires]
 python_version = "3.7"
